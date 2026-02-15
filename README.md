@@ -1,7 +1,8 @@
 # MTech-ML-Assignment2
 Machine Learning Assignment – 2
 
-## Problem Statement The task involves implementing various supervised learning algorithms, comparing their performance using standard evaluation metrics, and deploying the models through an interactive Streamlit web application. This project demonstrates an end-to-end machine learning workflow including data preprocessing, model training, evaluation, UI development, and deployment.
+## Problem Statement
+The task involves implementing various supervised learning algorithms, comparing their performance using standard evaluation metrics, and deploying the models through an interactive Streamlit web application. This project demonstrates an end-to-end machine learning workflow including data preprocessing, model training, evaluation, UI development, and deployment.
 
 ## Dataset Description
 
